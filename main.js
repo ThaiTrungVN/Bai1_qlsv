@@ -2,8 +2,13 @@ function getEle(id) {
     return document.getElementById(id);
 }
 
+<<<<<<< HEAD
+function addUser(user) {
+    console.log("addUser của dbTrung2");
+=======
 function addUser() {
     console.log("Đây là addUser của dbTrung");
+>>>>>>> main
 }
 
 function hienThiThongTin() {
