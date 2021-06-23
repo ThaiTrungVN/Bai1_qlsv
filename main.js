@@ -2,6 +2,10 @@ function getEle(id) {
     return document.getElementById(id);
 }
 
+function addUser() {
+    console.log("Đây là addUser của dbTrung");
+}
+
 function hienThiThongTin() {
     /**
      * Lấy thông tin từ người dùng nhập vào thông qua 5 input
